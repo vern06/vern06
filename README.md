@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen V.
-- 👀 I’m interested in Forestry and Spatial ecology
-- 🌱 I’m currently doing PhD (Natural Sciences) in Carbon dynamics modeling
+- 👀 I’m interested in Forestry and Remote Sensing & GIS
+- 🌱 I’m currently doing ...
 - 📫 How to reach me ...
 
 <!---
